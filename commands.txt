@@ -1,0 +1,5 @@
+* php artisan serve = Start the server to run the app
+* php artisan migrate = Execute the default migrations included in Laravel
+* php artisan route:list = Show an overview of all of the routes that are defined
+* php artisan route:list -v = Display the route middleware
+* php artisan route:list -vv = Expand middleware groups
